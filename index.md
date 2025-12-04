@@ -4,7 +4,7 @@ This is my home page! My name is Deryk and I am a student at [Cal State Fullerto
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/FoxyMeda.
 
 ### CPSC 120
 
